@@ -120,7 +120,7 @@ with open(fname,'rb') as fin:
                 timeStamp=(unpack(footerStruct, byteswap('4',fin.read(4)))[1])
                 #print(timeStamp)
                 if len(key)==1:
-                    EventList.append((PixID,timeStamp))
+                    EventList.append((PixID,timeStamp*0.0625))
 
                 #print(timeStamp)
             except:
