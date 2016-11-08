@@ -14,9 +14,8 @@ def histEventList(evlist):
 
     return bins, binnedData
 
-evlst=np.load('/Users/jonathantaylor/PycharmProjects/MultiGrid/Eventlist.dat.npy')
+evlst=np.load('Eventlist.dat.npy')
 
 bins,binneddata=histEventList(evlst)
 print binneddata
 test=CreateWorkspace(bins[1],np.transpose(binneddata),NSpec=4*16*48,UnitX='tof')
-CreateWorkspace(
