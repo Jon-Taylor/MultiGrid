@@ -62,145 +62,145 @@
 	<location x="0" y="0" z="3.5"/>
 </component>
 <component type="Grid_module" idlist="module_02" name="module_02">
-	<location x="0" y=".01" z="3.5"/>
-</component>
-<component type="Grid_module" idlist="module_03" name="module_03">
 	<location x="0" y=".02" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_04" name="module_04">
-	<location x="0" y=".03" z="3.5"/>
-</component>
-<component type="Grid_module" idlist="module_05" name="module_05">
+<component type="Grid_module" idlist="module_03" name="module_03">
 	<location x="0" y=".04" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_06" name="module_06">
+<component type="Grid_module" idlist="module_04" name="module_04">
 	<location x="0" y=".06" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_07" name="module_07">
+<component type="Grid_module" idlist="module_05" name="module_05">
 	<location x="0" y=".08" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_08" name="module_08">
+<component type="Grid_module" idlist="module_06" name="module_06">
 	<location x="0" y=".1" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_09" name="module_09">
+<component type="Grid_module" idlist="module_07" name="module_07">
 	<location x="0" y=".12" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_10" name="module_10">
+<component type="Grid_module" idlist="module_08" name="module_08">
 	<location x="0" y=".14" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_11" name="module_11">
+<component type="Grid_module" idlist="module_09" name="module_09">
 	<location x="0" y=".16" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_12" name="module_12">
+<component type="Grid_module" idlist="module_10" name="module_10">
 	<location x="0" y=".18" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_13" name="module_13">
+<component type="Grid_module" idlist="module_11" name="module_11">
 	<location x="0" y=".20" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_14" name="module_14">
+<component type="Grid_module" idlist="module_12" name="module_12">
 	<location x="0" y=".22" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_15" name="module_15">
+<component type="Grid_module" idlist="module_13" name="module_13">
 	<location x="0" y=".24" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_16" name="module_16">
+<component type="Grid_module" idlist="module_14" name="module_14">
 	<location x="0" y=".26" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_17" name="module_17">
+<component type="Grid_module" idlist="module_15" name="module_15">
 	<location x="0" y=".28" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_18" name="module_18">
+<component type="Grid_module" idlist="module_16" name="module_16">
 	<location x="0" y=".30" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_19" name="module_19">
+<component type="Grid_module" idlist="module_17" name="module_17">
 	<location x="0" y=".32" z="3.5"/>
 </component>
-<component type="Grid_module" idlist="module_20" name="module_20">
+<component type="Grid_module" idlist="module_18" name="module_18">
 	<location x="0" y=".34" z="3.5"/>
 </component>
+<component type="Grid_module" idlist="module_19" name="module_19">
+	<location x="0" y=".36" z="3.5"/>
+</component>
+<component type="Grid_module" idlist="module_20" name="module_20">
+	<location x="0" y=".38" z="3.5"/>
+</component>
 <component type="Grid_module" idlist="module_21" name="module_21">
-	<location x="0" y=".36" z="3.50"/>
-</component>
-<component type="Grid_module" idlist="module_22" name="module_22">
-	<location x="0" y=".38" z="3.50"/>
-</component>
-<component type="Grid_module" idlist="module_23" name="module_23">
 	<location x="0" y=".4" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_24" name="module_24">
+<component type="Grid_module" idlist="module_22" name="module_22">
 	<location x="0" y=".42" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_25" name="module_25">
+<component type="Grid_module" idlist="module_23" name="module_23">
 	<location x="0" y=".44" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_26" name="module_26">
+<component type="Grid_module" idlist="module_24" name="module_24">
 	<location x="0" y=".46" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_27" name="module_27">
+<component type="Grid_module" idlist="module_25" name="module_25">
 	<location x="0" y=".48" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_28" name="module_28">
-	<location x="0" y=".50" z="3.50"/>
+<component type="Grid_module" idlist="module_26" name="module_26">
+	<location x="0" y=".5" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_29" name="module_29">
+<component type="Grid_module" idlist="module_27" name="module_27">
 	<location x="0" y=".52" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_30" name="module_30">
+<component type="Grid_module" idlist="module_28" name="module_28">
 	<location x="0" y=".54" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_31" name="module_31">
+<component type="Grid_module" idlist="module_29" name="module_29">
 	<location x="0" y=".56" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_32" name="module_32">
+<component type="Grid_module" idlist="module_30" name="module_30">
 	<location x="0" y=".58" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_33" name="module_33">
+<component type="Grid_module" idlist="module_31" name="module_31">
 	<location x="0" y=".6" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_34" name="module_34">
+<component type="Grid_module" idlist="module_32" name="module_32">
 	<location x="0" y=".62" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_35" name="module_35">
+<component type="Grid_module" idlist="module_33" name="module_33">
 	<location x="0" y=".64" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_36" name="module_36">
+<component type="Grid_module" idlist="module_34" name="module_34">
 	<location x="0" y=".66" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_37" name="module_37">
+<component type="Grid_module" idlist="module_35" name="module_35">
 	<location x="0" y=".68" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_38" name="module_38">
+<component type="Grid_module" idlist="module_36" name="module_36">
 	<location x="0" y=".7" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_39" name="module_39">
+<component type="Grid_module" idlist="module_37" name="module_37">
 	<location x="0" y=".72" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_40" name="module_40">
+<component type="Grid_module" idlist="module_38" name="module_38">
 	<location x="0" y=".74" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_41" name="module_41">
+<component type="Grid_module" idlist="module_39" name="module_39">
 	<location x="0" y=".76" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_42" name="module_42">
+<component type="Grid_module" idlist="module_40" name="module_40">
 	<location x="0" y=".78" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_43" name="module_43">
+<component type="Grid_module" idlist="module_41" name="module_41">
 	<location x="0" y=".8" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_44" name="module_44">
+<component type="Grid_module" idlist="module_42" name="module_42">
 	<location x="0" y=".82" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_45" name="module_45">
+<component type="Grid_module" idlist="module_43" name="module_43">
 	<location x="0" y=".84" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_06" name="module_46">
+<component type="Grid_module" idlist="module_44" name="module_44">
 	<location x="0" y=".86" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_07" name="module_47">
+<component type="Grid_module" idlist="module_45" name="module_45">
 	<location x="0" y=".88" z="3.50"/>
 </component>
-<component type="Grid_module" idlist="module_08" name="module_48">
+<component type="Grid_module" idlist="module_46" name="module_46">
 	<location x="0" y=".9" z="3.50"/>
+</component>
+<component type="Grid_module" idlist="module_47" name="module_47">
+	<location x="0" y=".92" z="3.50"/>
+</component>
+<component type="Grid_module" idlist="module_48" name="module_48">
+	<location x="0" y=".94" z="3.50"/>
 </component>
 
 
@@ -223,9 +223,9 @@
 
 <type name="Voxel" is="detector">
  	<cuboid id="shape">
-  		<left-front-bottom-point x="0.0" y="-0.01" z="-0.01"  />
-  		<left-front-top-point  x="0.0" y="0.01" z="-0.01"  />
-  		<left-back-bottom-point  x="0.01" y="-0.01" z="-0.01"  />
+  		<left-front-bottom-point x="0.0" y="-0.01" z="0"  />
+  		<left-front-top-point  x="0.0" y="0.01" z="0"  />
+  		<left-back-bottom-point  x="0.01" y="-0.01" z="0"  />
   		<right-front-bottom-point  x="0.0" y="-0.01" z="0.01"  />
 	</cuboid>
 <algebra val="shape" />

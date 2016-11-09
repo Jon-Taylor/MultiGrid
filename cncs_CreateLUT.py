@@ -44,7 +44,7 @@ LUTlst=list(LUT.keys())
 #print(key)
 #LUT.get(key[0])
 
-fname='/Users/jonathantaylor/Desktop/CNCS-MultiGrid/data_sns/2016_07_13_beamOn_4p96A_050.bin'
+fname='2016_07_13_beamOn_4p96A_050.bin'
 
 
 headerStruct = 'u2u6u8u1u3u12'
